@@ -30,6 +30,15 @@
 
 ```
 
+## Create an IAM Role for Lambda Execution
+*NOTE*:  Only assign the minimum set of permissions needed
+
+E.g. lambda-exec-role
+
+Policy:  AWSLambdaExecute
+
+
+
 
 ## Deployment to AWS
 
