@@ -38,6 +38,11 @@ E.g. lambda-exec-role
 Policy:  AWSLambdaExecute
 
 
+## Create the Lambda via the AWS console
+
+  - Node.js 4.3 runtime
+  - Blank template
+  - Specify the IAM role (e.g. lambda-exec-role)
 
 
 ## Deployment to AWS
